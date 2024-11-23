@@ -4,7 +4,7 @@ from subprocess import Popen
 from pyrogram import Client, filters
 import asyncio
 
-DELETE = 300
+DELETE = 1
 
 User = Client("auto-delete-user",
               api_id=28704037,
