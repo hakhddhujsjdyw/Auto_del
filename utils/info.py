@@ -18,8 +18,8 @@
 
 import os
 
-API_ID       = int(os.environ.get("API_ID", "28704037"))
-API_HASH     = os.environ.get("API_HASH", "e27aa014fb9668024cb7375d90014493")
+API_ID       = int(os.environ.get("API_ID", "23441722"))
+API_HASH     = os.environ.get("API_HASH", "e72792e59b9cffd23ac2c1a989803cde")
 BOT_TOKEN    = os.environ.get("BOT_TOKEN", "7911558932:AAFU9ksjmqWqlBiLgcZcp7c8H1Pa_mR_WZY")
 SESSION      = os.environ.get("SESSION", "1BVtsOL0BuxH8TBzGmUG6MVBrR4KQGPYiB_TlUOBkU-DdD-wHITeoyGNSob0dLR1mCPOEEIMiP8shYawR0G8VJJCpieaSfQ_7VcyJCQOqYiPBJfHWzP_QwLVCMZc1yvoUHR9Sm20zRk4CcWFa-K-BBploX997YzWMfoyFgVJLgbD_oluv4sXIZBWaT6qgiwYxVUKazNZJDdswY6WelGHexSrlz14J2Xp0l_SQk9SBqnt_l64evb7lhpZBFJGwV02YKTTifVtYKwQ45dBnyMpwn14TrrZb3aE24G4Td-NQL0Rp4jF_w6LmORf_6G_JbWQnyjkbDDccrEeP0Wf1zbEyvO6E4IL0ils=")
 TIME         = int(os.environ.get("TIME", 1))
