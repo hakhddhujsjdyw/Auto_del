@@ -26,5 +26,5 @@ TIME         = int(os.environ.get("TIME", 7))
 CHATS        = [int(cht) for cht in os.environ.get("CHATS", "-1002413806904 -1002423467975 -1002398417852 -1002197221746 -1002416597824").split()]
 WHITE_LIST   = [int(wht) for wht in os.environ.get("WHITE_LIST", "").split()]
 BLACK_LIST   = [int(blk) for blk in os.environ.get("BLACK_LIST", "").split()]
-DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://Nazriya:Nazriya@cluster0.tkpcb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://Ramanan:Ramanan@cluster0.lvbe2wu.mongodb.net/")
 PORT         = os.environ.get("PORT", "8080")
